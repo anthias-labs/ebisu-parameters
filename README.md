@@ -5,7 +5,7 @@
 
 ### Minimum Collateralization Ratio
 
-A good MCR should balance capital efficiency for users while ensuring protocol solvency. Highly volatile or illiquid assets should have lower MCRs to account for potential sharp price drops and slippage during liquidations, while stable and liquid assets can support higher MCRs.
+A good MCR should balance capital efficiency for users while ensuring protocol solvency. Highly volatile or illiquid assets should have higher MCRs to account for potential sharp price drops and slippage during liquidations, while stable and liquid assets can support lower MCRs.
 
 When determining MCR, we assess the following factors:
 
