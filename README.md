@@ -335,7 +335,7 @@ Similar to WBTC and cbBTC, we don't see compelling evidence to use anything but 
 
 | Asset | MCR | LTV Recommendations | Debt Cap Recommendations (USD) | Oracle Type |
 |-------|-----|---------------------|--------------------------------|------------|
-| **sUSDe** | 120 | Conservative: 80%<br>Moderate: 84%<br>Risk-On: 88% | Low Risk: $2.15M<br>Medium Risk: $6.43M<br>Higher Risk: $15M | Proof-of-reserves oracle (long-term)<br>Chainlink or Redstone (interim) |
+| **sUSDe** | 120 | Conservative: 80%<br>Moderate: 84%<br>Risk-On: 88% | Low Risk: $2.15M<br>Medium Risk: $6.43M<br>Higher Risk: $15M | Proof-of-reserves oracle (long-term)<br>Market price (interim) |
 | **weETH** | 135 | Conservative: 70%<br>Moderate: 74%<br>Risk-On: 78% | Low Risk: $3.43M<br>Medium Risk: $10.29M<br>Higher Risk: $24M | Market price oracle |
 | **WBTC** | 138 | Conservative: 68%<br>Moderate: 72%<br>Risk-On: 76% | Low Risk: $7.14M<br>Medium Risk: $21.43M<br>Higher Risk: $50M | Market price oracle |
 | **cbBTC** | 138 | Conservative: 68%<br>Moderate: 72%<br>Risk-On: 76% | Low Risk: $5M<br>Medium Risk: $15M<br>Higher Risk: $35M | Market price oracle |
